@@ -23,17 +23,25 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 [Fundamentos de Six Sigma.](https://medium.com/@macomeza/fundamentos-de-six-sigma-a553835c0d5f)
 
 [Ciclo DMAIC.](https://medium.com/@macomeza/dmaic-y-los-datos-8b661a472212)
+
 [Tipos de datos.](https://medium.com/@macomeza/datos-num%C3%A9ricos-vs-categ%C3%B3ricos-18418f9555e3)
+
 [Unidades de medición.](https://medium.com/@macomeza/unidades-y-definici%C3%B3n-operacional-d5f4d376875)
+
 [Muestra vs Población.](https://medium.com/@macomeza/muestra-vs-poblaci%C3%B3n-83ef08f821bd)
 
 ## 5. Data Science
 [Desafíos de la analítica de datos.](https://medium.com/@macomeza/5-desafios-de-la-an%C3%A1litica-de-datos-950906b0fa42)
+
 [Entrenamiento de un modelo YOLO custom.](https://github.com/chejo343/entrenar-yolo)
 
 ## 6. Desarrollo de Software
 [Extensiones de navegador para developers.](https://sergiodev.hashnode.dev/extensiones-de-navegador-para-devs)
+
 [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
+
 [Guía de uso de Map, Reduce y Filter.](https://sergio-aja.medium.com/como-usar-map-reduce-y-filter-en-javascript-a6623cf3ef27)
+
 [Publicación de JS o Sitios Web hacia AWS S3.](https://medium.com/@ardaniramirez/publica-tu-app-js-o-tu-sitio-web-est%C3%A1tico-en-aws-s3-3ecd2d0662ef)
+
 [Conceptos generales de Serverless.](https://medium.com/@luisferliza/introducci%C3%B3n-a-serverless-aws-86ec2de835e5)
