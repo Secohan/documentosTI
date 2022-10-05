@@ -3,7 +3,7 @@
 Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI. La lista está ordenada por categoría de uso.
 
 ## 1. Desarrollo personal
-[Gestión del tiempo.](https://medium.com/@crcf85/tip-para-gestionar-nuestro-tiempo-7cd10b58f1d5)
+- [Gestión del tiempo.](https://medium.com/@crcf85/tip-para-gestionar-nuestro-tiempo-7cd10b58f1d5)
 
 ## 2. Git
 [Conceptos generales de Git.](https://medium.com/@sergiohumberto27/descubriendo-el-mundo-de-git-3d4d80478918)
