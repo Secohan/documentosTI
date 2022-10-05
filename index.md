@@ -7,16 +7,21 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 
 ## 2. Git
 [Conceptos generales de Git.](https://medium.com/@sergiohumberto27/descubriendo-el-mundo-de-git-3d4d80478918)
+
 [Guía rápida de Markdown, para publicaciones en Github.](https://github.com/macomeza/SixSigma/blob/main/markdown-guide.md)
+
 [Git CLI vs Git GUI](https://medium.com/@sergiohumberto27/git-cli-vs-git-en-gui-910c1dd79c8a)
+
 [Uso de GitHub Gist para guardar snippets.](https://flicardie.medium.com/guardando-c%C3%B3digo-repetitivo-snippets-851142952114)
 
 ## 3. Project Management
 [Identificación de problemas.](https://medium.com/@flicardie/por-qu%C3%A9-es-importante-conocer-la-naturaleza-de-un-problema-96c3c767b834)
+
 [Iniciativas, épicas e historias de usuario.](https://medium.com/@secohan/iniciativas-%C3%A9picas-e-historias-de-usuario-16d66cb355a)
 
 ## 4. Six Sigma y Estadística
 [Fundamentos de Six Sigma.](https://medium.com/@macomeza/fundamentos-de-six-sigma-a553835c0d5f)
+
 [Ciclo DMAIC.](https://medium.com/@macomeza/dmaic-y-los-datos-8b661a472212)
 [Tipos de datos.](https://medium.com/@macomeza/datos-num%C3%A9ricos-vs-categ%C3%B3ricos-18418f9555e3)
 [Unidades de medición.](https://medium.com/@macomeza/unidades-y-definici%C3%B3n-operacional-d5f4d376875)
