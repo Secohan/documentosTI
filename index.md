@@ -21,7 +21,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Muestra vs Población.](https://medium.com/@macomeza/muestra-vs-poblaci%C3%B3n-83ef08f821bd)
 
 ## 5. Data Science
-- [Introducción a la Ciencia de Datos.](https://github.com/macomeza/dataScience/blob/main/README.md)
+- [Introducción a la Ciencia de Datos.](https://github.com/macomeza/dataScience/blob/main/fundamentosAnal%C3%ADticaDatosAWS.md)
 - [Desafíos de la analítica de datos.](https://medium.com/@macomeza/5-desafios-de-la-an%C3%A1litica-de-datos-950906b0fa42)
 - [Entrenamiento de un modelo YOLO custom.](https://github.com/chejo343/entrenar-yolo)
 
