@@ -31,6 +31,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
 - [Envío de parámetros en funciones BAPI (SAP y C#).](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-parte-2-94a2177d8229)
 - [Guía de uso de Map, Reduce y Filter.](https://sergio-aja.medium.com/como-usar-map-reduce-y-filter-en-javascript-a6623cf3ef27)
+- [Función Split en MySQL / MariaDb.](https://medium.com/@ardaniramirez/funci%C3%B3n-split-en-mysql-mariadb-e50c6d4f02c9)
 - [Publicación de JS o Sitios Web hacia AWS S3.](https://medium.com/@ardaniramirez/publica-tu-app-js-o-tu-sitio-web-est%C3%A1tico-en-aws-s3-3ecd2d0662ef)
 - [Conceptos generales de Serverless.](https://medium.com/@luisferliza/introducci%C3%B3n-a-serverless-aws-86ec2de835e5)
 - [Creación de listas a partir de otras listas en Python.](https://sergiodev.hashnode.dev/python-list-comprehension)
