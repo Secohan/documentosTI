@@ -27,6 +27,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 
 ## 6. Desarrollo de Software
 - [Extensiones de navegador para developers.](https://sergiodev.hashnode.dev/extensiones-de-navegador-para-devs)
+- [Sincroniza tu configuración de VS Code con Gist.](https://medium.com/@ardaniramirez/sincroniza-tu-configuraci%C3%B3n-de-vs-code-4fbd6d4bd181)
 - [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
 - [Envío de parámetros en funciones BAPI (SAP y C#).](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-parte-2-94a2177d8229)
 - [Guía de uso de Map, Reduce y Filter.](https://sergio-aja.medium.com/como-usar-map-reduce-y-filter-en-javascript-a6623cf3ef27)
