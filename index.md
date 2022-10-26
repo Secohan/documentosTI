@@ -42,6 +42,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 ## 8. Git
 - [Conceptos generales de Git.](https://medium.com/@sergiohumberto27/descubriendo-el-mundo-de-git-3d4d80478918)
 - [Commits y buenas prácticas.](https://medium.com/@sergiohumberto27/commits-y-buenas-practicas-830fc222edb4)
+- [Ramas (Branches) en Git.](https://medium.com/@sergiohumberto27/ramas-en-git-a6002140a29)
 - [Guía rápida de Markdown, para publicaciones en Github.](https://github.com/macomeza/SixSigma/blob/main/markdown-guide.md)
 - [Git CLI vs Git GUI.](https://medium.com/@sergiohumberto27/git-cli-vs-git-en-gui-910c1dd79c8a)
 - [Uso de GitHub Gist para guardar snippets.](https://flicardie.medium.com/guardando-c%C3%B3digo-repetitivo-snippets-851142952114)
