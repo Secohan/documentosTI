@@ -4,7 +4,8 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 
 ## 1. Desarrollo personal
 - [Gestión del tiempo.](https://medium.com/@crcf85/tip-para-gestionar-nuestro-tiempo-7cd10b58f1d5)
-- [Descuentos en cursos de Udemy](https://flicardie.medium.com/comprando-cursos-en-udemy-a-precios-bajos-f8c9dbfac)
+- [Descuentos en cursos de Udemy.](https://flicardie.medium.com/comprando-cursos-en-udemy-a-precios-bajos-f8c9dbfac)
+- [Guía para certificación AWS Cloud Practitioner.](https://medium.com/@luisferliza/gu%C3%ADa-para-obtener-tu-primera-certificaci%C3%B3n-de-aws-59a240b3e01d)
 
 ## 2. Estrategia
 - [Entendiendo el FODA, parte 1/3.](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-1-8dc62ce29a7b)
