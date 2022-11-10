@@ -23,27 +23,30 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Unidades de medición.](https://medium.com/@macomeza/unidades-y-definici%C3%B3n-operacional-d5f4d376875)
 - [Muestra vs Población.](https://medium.com/@macomeza/muestra-vs-poblaci%C3%B3n-83ef08f821bd)
 
-## 5. Data Science
+## 5. Bases de Datos
+- [Consejos generales para escribir queries.](https://medium.com/@ardaniramirez/algunos-consejos-para-optimizar-tus-consultas-en-sql-server-8e8adf11f698)
+- [Función Split en MySQL / MariaDb.](https://medium.com/@ardaniramirez/funci%C3%B3n-split-en-mysql-mariadb-e50c6d4f02c9)
+
+## 6. Data Science
 - [Introducción a la Ciencia de Datos.](https://github.com/macomeza/dataScience/blob/main/fundamentosAnal%C3%ADticaDatosAWS.md)
 - [Desafíos de la analítica de datos.](https://medium.com/@macomeza/5-desafios-de-la-an%C3%A1litica-de-datos-950906b0fa42)
 - [Entrenamiento de un modelo YOLO custom.](https://github.com/chejo343/entrenar-yolo)
 
-## 6. Desarrollo de Software
+## 7. Desarrollo de Software
 - [Extensiones de navegador para developers.](https://sergiodev.hashnode.dev/extensiones-de-navegador-para-devs)
 - [Sincroniza tu configuración de VS Code con Gist.](https://medium.com/@ardaniramirez/sincroniza-tu-configuraci%C3%B3n-de-vs-code-4fbd6d4bd181)
 - [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
 - [Envío de parámetros en funciones BAPI (SAP y C#).](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-parte-2-94a2177d8229)
 - [Guía de uso de Map, Reduce y Filter.](https://sergio-aja.medium.com/como-usar-map-reduce-y-filter-en-javascript-a6623cf3ef27)
-- [Función Split en MySQL / MariaDb.](https://medium.com/@ardaniramirez/funci%C3%B3n-split-en-mysql-mariadb-e50c6d4f02c9)
 - [Publicación de JS o Sitios Web hacia AWS S3.](https://medium.com/@ardaniramirez/publica-tu-app-js-o-tu-sitio-web-est%C3%A1tico-en-aws-s3-3ecd2d0662ef)
 - [Trucos de Javascript.](https://sergiodev.hashnode.dev/trucos-de-javascript)
 - [Conceptos generales de Serverless.](https://medium.com/@luisferliza/introducci%C3%B3n-a-serverless-aws-86ec2de835e5)
 - [Creación de listas a partir de otras listas en Python.](https://sergiodev.hashnode.dev/python-list-comprehension)
 
-## 7. Algoritmos
+## 8. Algoritmos
 - [Ejemplo de Árboles de decisión.](https://medium.com/@luisferliza/puedes-ganarle-a-esta-ia-jugando-totito-f3ce9fe9e8c)
 
-## 8. Git
+## 9. Git
 - [Conceptos generales de Git.](https://medium.com/@sergiohumberto27/descubriendo-el-mundo-de-git-3d4d80478918)
 - [Commits y buenas prácticas.](https://medium.com/@sergiohumberto27/commits-y-buenas-practicas-830fc222edb4)
 - [Ramas (Branches) en Git.](https://medium.com/@sergiohumberto27/ramas-en-git-a6002140a29)
