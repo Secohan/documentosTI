@@ -9,6 +9,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 
 ## 2. Estrategia
 - [Entendiendo el FODA, parte 1/3.](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-1-8dc62ce29a7b)
+- [PESTEL y 5 Fuerzas de Porter - (FODA, parte 2/3).](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-2-48d067cd4df9)
 
 ## 3. Project Management
 - [Conceptos básicos de una oficina de Gestión de Proyectos (PMO).](https://flicardie.medium.com/conceptos-b%C3%A1sicos-de-una-oficina-de-gesti%C3%B3n-de-proyectos-d8750a8df5e6)
