@@ -11,11 +11,12 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 ## 2. Estrategia
 - [Entendiendo el FODA, parte 1/3.](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-1-8dc62ce29a7b)
 - [PESTEL y 5 Fuerzas de Porter - (FODA, parte 2/3).](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-2-48d067cd4df9)
-- [FODA parte 3/3.](https://medium.com/@lmerida_16130/cambiando-el-enfoque-transaccional-por-el-anal%C3%ADtico-a61d150c754f)
+- [FODA parte 3/3.](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-3-eb39773771bf)
 
 ## 3. Project Management
 - [Conceptos básicos de una oficina de Gestión de Proyectos (PMO).](https://flicardie.medium.com/conceptos-b%C3%A1sicos-de-una-oficina-de-gesti%C3%B3n-de-proyectos-d8750a8df5e6)
 - [¿Cuándo necesitamos una PMO?](https://flicardie.medium.com/cu%C3%A1ndo-necesito-una-pmo-en-mi-organizaci%C3%B3n-65ad4635c1b)
+- [Recomendaciones para la implementación de una PMO.](https://flicardie.medium.com/recomendaciones-para-implementar-una-pmo-c730f5b45b)
 - [Identificación de problemas.](https://medium.com/@flicardie/por-qu%C3%A9-es-importante-conocer-la-naturaleza-de-un-problema-96c3c767b834)
 - [Iniciativas, épicas e historias de usuario.](https://medium.com/@secohan/iniciativas-%C3%A9picas-e-historias-de-usuario-16d66cb355a)
 
@@ -38,7 +39,10 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Entrenamiento de un modelo YOLO custom.](https://github.com/chejo343/entrenar-yolo)
 
 ## 7. Desarrollo de Software
+- [Conceptos de low-code y no-code.](https://medium.com/@abnermndz/crear-aplicaciones-sin-tener-que-programar-d8cf7eb5377f)
 - [Shortcuts para Visual Studio.](https://medium.com/@axelperez4/shortcuts-del-d%C3%ADa-a-d%C3%ADa-para-programadores-visual-studio-7151fe3fe90b)
+- [Uso del Context Log en Entity Framework 6.](https://medium.com/@melvintohom/entity-framework-6-interceptar-comandos-por-medio-de-context-log-d1b093d98593)
+- [Parámetros tipo array en C#.](https://medium.com/@ardaniramirez/par%C3%A1metros-tipo-array-en-c-f0632e7e216f)
 - [Extensiones de navegador para developers.](https://sergiodev.hashnode.dev/extensiones-de-navegador-para-devs)
 - [Sincroniza tu configuración de VS Code con Gist.](https://medium.com/@ardaniramirez/sincroniza-tu-configuraci%C3%B3n-de-vs-code-4fbd6d4bd181)
 - [Envío de parámetros en funciones BAPI (SAP y C#).](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-parte-2-94a2177d8229)
@@ -48,6 +52,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Conceptos generales de Serverless.](https://medium.com/@luisferliza/introducci%C3%B3n-a-serverless-aws-86ec2de835e5)
 - [Creación de listas a partir de otras listas en Python.](https://sergiodev.hashnode.dev/python-list-comprehension)
 - [Autocomplete sin usar JavaScript.](https://sergiodev.hashnode.dev/input-autocomplete-sin-usar-javascript)
+- [Object Destructuring en JavaScript.](https://sergiodev.hashnode.dev/object-destructuring-javascript)
 - [Uso de la consola del browser.](https://medium.com/@ardaniramirez/alternativas-a-console-log-37e616476e14)
 
 ## 8. Algoritmos
@@ -55,6 +60,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 
 ## 9. Git
 - [Conceptos generales de Git.](https://medium.com/@sergiohumberto27/descubriendo-el-mundo-de-git-3d4d80478918)
+- [Passwords de BitBucket para acceso desde aplicaciones de terceros.](https://medium.com/@sergiohumberto27/app-passwords-bitbucket-a2ff2d093ba1)
 - [Commits y buenas prácticas.](https://medium.com/@sergiohumberto27/commits-y-buenas-practicas-830fc222edb4)
 - [Ramas (Branches) en Git.](https://medium.com/@sergiohumberto27/ramas-en-git-a6002140a29)
 - [Guía rápida de Markdown, para publicaciones en Github.](https://github.com/macomeza/SixSigma/blob/main/markdown-guide.md)
@@ -68,3 +74,4 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 
 ## 11. AWS
 - [Creación de Presupuestos AWS.](https://medium.com/@luisferliza/creando-tu-primer-presupuesto-de-costos-en-aws-ae637fd06870)
+- [Conceptos y uso de Glue para conexión hacia fuentes de datos.](https://github.com/macomeza/dataScience/blob/main/awsGlue/aws-glue.md)
