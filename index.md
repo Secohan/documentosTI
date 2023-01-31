@@ -33,6 +33,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Consejos generales para escribir queries.](https://medium.com/@ardaniramirez/algunos-consejos-para-optimizar-tus-consultas-en-sql-server-8e8adf11f698)
 - [Importancia de la realización de backups.](https://medium.com/@piopao/por-qu%C3%A9-es-importante-hacer-respaldos-de-nuestras-bases-de-datos-2bad135a71e5)
 - [Modos de recuperación de una base de datos SQL Server.](https://medium.com/@piopao/modos-de-recuperaci%C3%B3n-de-una-base-de-datos-sql-51913516156e)
+- [Diferencia entre una tabla temporal y una variable tipo tabla en SQL Server.](https://medium.com/@piopao/diferencia-entre-una-tabla-temporal-y-una-tabla-tipo-variable-368a44ab796c)
 - [Función Split en MySQL / MariaDb.](https://medium.com/@ardaniramirez/funci%C3%B3n-split-en-mysql-mariadb-e50c6d4f02c9)
 
 ## 6. Data Science
