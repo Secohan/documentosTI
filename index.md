@@ -17,6 +17,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Conceptos básicos de una oficina de Gestión de Proyectos (PMO).](https://flicardie.medium.com/conceptos-b%C3%A1sicos-de-una-oficina-de-gesti%C3%B3n-de-proyectos-d8750a8df5e6)
 - [¿Cuándo necesitamos una PMO?](https://flicardie.medium.com/cu%C3%A1ndo-necesito-una-pmo-en-mi-organizaci%C3%B3n-65ad4635c1b)
 - [Recomendaciones para la implementación de una PMO.](https://flicardie.medium.com/recomendaciones-para-implementar-una-pmo-c730f5b45b)
+- [Niveles de madurez de una PMO.](https://flicardie.medium.com/niveles-de-madurez-de-una-pmo-60598c590ad6)
 - [Identificación de problemas.](https://medium.com/@flicardie/por-qu%C3%A9-es-importante-conocer-la-naturaleza-de-un-problema-96c3c767b834)
 - [Iniciativas, épicas e historias de usuario.](https://medium.com/@secohan/iniciativas-%C3%A9picas-e-historias-de-usuario-16d66cb355a)
 
@@ -31,6 +32,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Estructura de archivos de una base de datos de SQL Server.](https://medium.com/@piopao/archivos-de-una-base-de-datos-sql-a6d213985ae5)
 - [Consejos generales para escribir queries.](https://medium.com/@ardaniramirez/algunos-consejos-para-optimizar-tus-consultas-en-sql-server-8e8adf11f698)
 - [Importancia de la realización de backups.](https://medium.com/@piopao/por-qu%C3%A9-es-importante-hacer-respaldos-de-nuestras-bases-de-datos-2bad135a71e5)
+- [Modos de recuperación de una base de datos SQL Server.](https://medium.com/@piopao/modos-de-recuperaci%C3%B3n-de-una-base-de-datos-sql-51913516156e)
 - [Función Split en MySQL / MariaDb.](https://medium.com/@ardaniramirez/funci%C3%B3n-split-en-mysql-mariadb-e50c6d4f02c9)
 
 ## 6. Data Science
@@ -54,10 +56,12 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Trucos de Javascript.](https://sergiodev.hashnode.dev/trucos-de-javascript)
 - [Conceptos generales de Serverless.](https://medium.com/@luisferliza/introducci%C3%B3n-a-serverless-aws-86ec2de835e5)
 - [Creación de listas a partir de otras listas en Python.](https://sergiodev.hashnode.dev/python-list-comprehension)
+- [Diccionario de datos en Python.](https://sergiodev.hashnode.dev/diccionarios-en-python)
 - [Autocomplete sin usar JavaScript.](https://sergiodev.hashnode.dev/input-autocomplete-sin-usar-javascript)
 - [Object Destructuring en JavaScript.](https://sergiodev.hashnode.dev/object-destructuring-javascript)
 - [Uso de la consola del browser.](https://medium.com/@ardaniramirez/alternativas-a-console-log-37e616476e14)
 - [GitHub Copilot: conceptos y modo de uso.](https://medium.com/@axelperez4/github-copilot-como-asistente-de-desarrollo-6d3efd62f12a)
+- [Middleware en NodeJS.](https://medium.com/@luisferliza/qu%C3%A9-son-los-middlewares-y-el-next-de-nodejs-5c6b1b486c97)
 
 ## 8. Algoritmos
 - [Ejemplo de Árboles de decisión.](https://medium.com/@luisferliza/puedes-ganarle-a-esta-ia-jugando-totito-f3ce9fe9e8c)
@@ -67,6 +71,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Passwords de BitBucket para acceso desde aplicaciones de terceros.](https://medium.com/@sergiohumberto27/app-passwords-bitbucket-a2ff2d093ba1)
 - [Commits y buenas prácticas.](https://medium.com/@sergiohumberto27/commits-y-buenas-practicas-830fc222edb4)
 - [Ramas (Branches) en Git.](https://medium.com/@sergiohumberto27/ramas-en-git-a6002140a29)
+- [Uso de Stashes en Git.](https://medium.com/@sergiohumberto27/usar-stash-en-git-efec98d262e1)
 - [Guía rápida de Markdown, para publicaciones en Github.](https://github.com/macomeza/SixSigma/blob/main/markdown-guide.md)
 - [Git CLI vs Git GUI.](https://medium.com/@sergiohumberto27/git-cli-vs-git-en-gui-910c1dd79c8a)
 - [Uso de GitHub Gist para guardar snippets.](https://flicardie.medium.com/guardando-c%C3%B3digo-repetitivo-snippets-851142952114)
@@ -74,6 +79,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [¿Cómo usar GitFlow desde línea de comando?](https://medium.com/@sergiohumberto27/gitflow-desde-linea-de-comandos-9bd5851b9287)
 
 ## 10. SAP
+- [Conceptos generales de SAP.](https://medium.com/@limaalberto886/sap-1ra-parte-497417a4f8ec)
 - [Definición de Roles en SAP.](https://medium.com/@corinasantizo/sap-y-la-importancia-de-la-definicion-de-los-roles-y-perfiles-parte-i-465db563a7ae)
 - [Importancia de la segregación de funciones en un ERP.](https://medium.com/@corinasantizo/importancia-de-la-segregacion-de-funciones-da6d57764218)
 - [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
@@ -81,7 +87,9 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 ## 11. AWS
 - [Creación de Presupuestos AWS.](https://medium.com/@luisferliza/creando-tu-primer-presupuesto-de-costos-en-aws-ae637fd06870)
 - [Conceptos y uso de Glue para conexión hacia fuentes de datos.](https://github.com/macomeza/dataScience/blob/main/awsGlue/aws-glue.md)
+- [Creación de una tabla procesada en Glue.](https://github.com/macomeza/dataScience/blob/main/awsGlue/processed/procesar-datos-S3.md)
 - [Usando Lambda para desplegar un sitio web estático.](https://medium.com/@luisferliza/utilizando-aws-lambda-para-alojar-un-sitio-web-est%C3%A1tico-fea74e2b46a5)
 
 ## 12. React
 - [No uses useState con tus forms en React.](https://sergiodev.hashnode.dev/no-uses-usestate-con-tus-forms-en-react)
+- [Solución al erroar "Could not connect to development server" en React Native.](https://medium.com/@ardaniramirez/soluci%C3%B3n-a-errores-comunes-en-react-native-715644169c72)
