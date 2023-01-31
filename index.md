@@ -41,6 +41,8 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Entendiendo las Data Warehouses.](https://medium.com/@lmerida_16130/entendiendo-el-concepto-de-data-warehouse-422ebd26c08)
 - [Desafíos de la analítica de datos.](https://medium.com/@macomeza/5-desafios-de-la-an%C3%A1litica-de-datos-950906b0fa42)
 - [Entrenamiento de un modelo YOLO custom.](https://github.com/chejo343/entrenar-yolo)
+- [Ejemplos de uso de librerías de Python para Data Science.](https://github.com/macomeza/python/tree/main/LibrariesForDataScience)
+- [Ejemplos de Data Wrangling.](https://github.com/macomeza/python/tree/main/DataWrangling)
 
 ## 7. Desarrollo de Software
 - [Conceptos de low-code y no-code.](https://medium.com/@abnermndz/crear-aplicaciones-sin-tener-que-programar-d8cf7eb5377f)
@@ -55,13 +57,13 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Publicación de JS o Sitios Web hacia AWS S3.](https://medium.com/@ardaniramirez/publica-tu-app-js-o-tu-sitio-web-est%C3%A1tico-en-aws-s3-3ecd2d0662ef)
 - [Trucos de Javascript.](https://sergiodev.hashnode.dev/trucos-de-javascript)
 - [Conceptos generales de Serverless.](https://medium.com/@luisferliza/introducci%C3%B3n-a-serverless-aws-86ec2de835e5)
-- [Creación de listas a partir de otras listas en Python.](https://sergiodev.hashnode.dev/python-list-comprehension)
-- [Diccionario de datos en Python.](https://sergiodev.hashnode.dev/diccionarios-en-python)
 - [Autocomplete sin usar JavaScript.](https://sergiodev.hashnode.dev/input-autocomplete-sin-usar-javascript)
 - [Object Destructuring en JavaScript.](https://sergiodev.hashnode.dev/object-destructuring-javascript)
 - [Uso de la consola del browser.](https://medium.com/@ardaniramirez/alternativas-a-console-log-37e616476e14)
 - [GitHub Copilot: conceptos y modo de uso.](https://medium.com/@axelperez4/github-copilot-como-asistente-de-desarrollo-6d3efd62f12a)
 - [Middleware en NodeJS.](https://medium.com/@luisferliza/qu%C3%A9-son-los-middlewares-y-el-next-de-nodejs-5c6b1b486c97)
+- [¿Qué son los JWT y cómo deberías almacenarlos?](https://medium.com/@luisferliza/qu%C3%A9-son-los-jwt-y-c%C3%B3mo-deber%C3%ADas-almacenarlos-a0be543e6862)
+- [Tips de uso de Figma, para construcción de prototipos.](https://medium.com/@sergiohumberto27/trucos-y-consejos-para-figma-a99177622d8a)
 
 ## 8. Algoritmos
 - [Ejemplo de Árboles de decisión.](https://medium.com/@luisferliza/puedes-ganarle-a-esta-ia-jugando-totito-f3ce9fe9e8c)
@@ -82,6 +84,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Conceptos generales de SAP.](https://medium.com/@limaalberto886/sap-1ra-parte-497417a4f8ec)
 - [Definición de Roles en SAP.](https://medium.com/@corinasantizo/sap-y-la-importancia-de-la-definicion-de-los-roles-y-perfiles-parte-i-465db563a7ae)
 - [Importancia de la segregación de funciones en un ERP.](https://medium.com/@corinasantizo/importancia-de-la-segregacion-de-funciones-da6d57764218)
+- [Tips para una correcta segregación de funciones en SAP.](https://medium.com/@corinasantizo/tips-para-una-correcta-segregaci%C3%B3n-de-funciones-46309b1eb77)
 - [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
 
 ## 11. AWS
@@ -91,5 +94,13 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Usando Lambda para desplegar un sitio web estático.](https://medium.com/@luisferliza/utilizando-aws-lambda-para-alojar-un-sitio-web-est%C3%A1tico-fea74e2b46a5)
 
 ## 12. React
+- [¿Cómo generar un APK?](https://medium.com/@ardaniramirez/react-native-c%C3%B3mo-generar-un-apk-1c532e902f90)
 - [No uses useState con tus forms en React.](https://sergiodev.hashnode.dev/no-uses-usestate-con-tus-forms-en-react)
-- [Solución al erroar "Could not connect to development server" en React Native.](https://medium.com/@ardaniramirez/soluci%C3%B3n-a-errores-comunes-en-react-native-715644169c72)
+- [Solución al error "Could not connect to development server" en React Native.](https://medium.com/@ardaniramirez/soluci%C3%B3n-a-errores-comunes-en-react-native-715644169c72)
+- [Solución al error que impide que cargue Metro Bundler en React Navitve.](https://medium.com/@ardaniramirez/soluci%C3%B3n-al-problema-que-impide-que-cargue-metro-bundler-en-react-native-e552bcb82e04)
+
+## 13. Python
+- [Creación de listas a partir de otras listas en Python.](https://sergiodev.hashnode.dev/python-list-comprehension)
+- [Diccionario de datos en Python.](https://sergiodev.hashnode.dev/diccionarios-en-python)
+- [Visualización de data en Python.](https://github.com/macomeza/python/tree/main/EDA)
+- [Corriendo Python desde el navegador.](https://sergiodev.hashnode.dev/pyscript-corriendo-python-desde-el-navegador)
