@@ -11,6 +11,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 ## 2. Estrategia
 - [Entendiendo el FODA, parte 1/3.](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-1-8dc62ce29a7b)
 - [PESTEL y 5 Fuerzas de Porter - (FODA, parte 2/3).](https://medium.com/@jseangel93/foda-la-herramienta-estrat%C3%A9gica-m%C3%A1s-conocida-en-el-mundo-parte-2-48d067cd4df9)
+- [FODA parte 3/3.](https://medium.com/@lmerida_16130/cambiando-el-enfoque-transaccional-por-el-anal%C3%ADtico-a61d150c754f)
 
 ## 3. Project Management
 - [Conceptos básicos de una oficina de Gestión de Proyectos (PMO).](https://flicardie.medium.com/conceptos-b%C3%A1sicos-de-una-oficina-de-gesti%C3%B3n-de-proyectos-d8750a8df5e6)
@@ -32,6 +33,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 
 ## 6. Data Science
 - [Introducción a la Ciencia de Datos.](https://github.com/macomeza/dataScience/blob/main/fundamentosAnal%C3%ADticaDatosAWS.md)
+- [Cambio de enfoque transaccional hacia analítico.](https://medium.com/@lmerida_16130/cambiando-el-enfoque-transaccional-por-el-anal%C3%ADtico-a61d150c754f)
 - [Desafíos de la analítica de datos.](https://medium.com/@macomeza/5-desafios-de-la-an%C3%A1litica-de-datos-950906b0fa42)
 - [Entrenamiento de un modelo YOLO custom.](https://github.com/chejo343/entrenar-yolo)
 
@@ -46,6 +48,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Conceptos generales de Serverless.](https://medium.com/@luisferliza/introducci%C3%B3n-a-serverless-aws-86ec2de835e5)
 - [Creación de listas a partir de otras listas en Python.](https://sergiodev.hashnode.dev/python-list-comprehension)
 - [Autocomplete sin usar JavaScript.](https://sergiodev.hashnode.dev/input-autocomplete-sin-usar-javascript)
+- [Uso de la consola del browser.](https://medium.com/@ardaniramirez/alternativas-a-console-log-37e616476e14)
 
 ## 8. Algoritmos
 - [Ejemplo de Árboles de decisión.](https://medium.com/@luisferliza/puedes-ganarle-a-esta-ia-jugando-totito-f3ce9fe9e8c)
@@ -62,3 +65,6 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 ## 10. SAP
 - [Definición de Roles en SAP.](https://medium.com/@corinasantizo/sap-y-la-importancia-de-la-definicion-de-los-roles-y-perfiles-parte-i-465db563a7ae)
 - [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
+
+## 11. AWS
+- [Creación de Presupuestos AWS.](https://medium.com/@luisferliza/creando-tu-primer-presupuesto-de-costos-en-aws-ae637fd06870)
