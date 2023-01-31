@@ -28,6 +28,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Muestra vs Población.](https://medium.com/@macomeza/muestra-vs-poblaci%C3%B3n-83ef08f821bd)
 
 ## 5. Bases de Datos
+- [Estructura de archivos de una base de datos de SQL Server.](https://medium.com/@piopao/archivos-de-una-base-de-datos-sql-a6d213985ae5)
 - [Consejos generales para escribir queries.](https://medium.com/@ardaniramirez/algunos-consejos-para-optimizar-tus-consultas-en-sql-server-8e8adf11f698)
 - [Importancia de la realización de backups.](https://medium.com/@piopao/por-qu%C3%A9-es-importante-hacer-respaldos-de-nuestras-bases-de-datos-2bad135a71e5)
 - [Función Split en MySQL / MariaDb.](https://medium.com/@ardaniramirez/funci%C3%B3n-split-en-mysql-mariadb-e50c6d4f02c9)
@@ -35,6 +36,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 ## 6. Data Science
 - [Introducción a la Ciencia de Datos.](https://github.com/macomeza/dataScience/blob/main/fundamentosAnal%C3%ADticaDatosAWS.md)
 - [Cambio de enfoque transaccional hacia analítico.](https://medium.com/@lmerida_16130/cambiando-el-enfoque-transaccional-por-el-anal%C3%ADtico-a61d150c754f)
+- [Entendiendo las Data Warehouses.](https://medium.com/@lmerida_16130/entendiendo-el-concepto-de-data-warehouse-422ebd26c08)
 - [Desafíos de la analítica de datos.](https://medium.com/@macomeza/5-desafios-de-la-an%C3%A1litica-de-datos-950906b0fa42)
 - [Entrenamiento de un modelo YOLO custom.](https://github.com/chejo343/entrenar-yolo)
 
@@ -43,6 +45,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Shortcuts para Visual Studio.](https://medium.com/@axelperez4/shortcuts-del-d%C3%ADa-a-d%C3%ADa-para-programadores-visual-studio-7151fe3fe90b)
 - [Uso del Context Log en Entity Framework 6.](https://medium.com/@melvintohom/entity-framework-6-interceptar-comandos-por-medio-de-context-log-d1b093d98593)
 - [Parámetros tipo array en C#.](https://medium.com/@ardaniramirez/par%C3%A1metros-tipo-array-en-c-f0632e7e216f)
+- [Parámetros opcionales en C#.](https://medium.com/@ardaniramirez/par%C3%A1metros-opcionales-en-c-6620d5426195)
 - [Extensiones de navegador para developers.](https://sergiodev.hashnode.dev/extensiones-de-navegador-para-devs)
 - [Sincroniza tu configuración de VS Code con Gist.](https://medium.com/@ardaniramirez/sincroniza-tu-configuraci%C3%B3n-de-vs-code-4fbd6d4bd181)
 - [Envío de parámetros en funciones BAPI (SAP y C#).](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-parte-2-94a2177d8229)
@@ -54,6 +57,7 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Autocomplete sin usar JavaScript.](https://sergiodev.hashnode.dev/input-autocomplete-sin-usar-javascript)
 - [Object Destructuring en JavaScript.](https://sergiodev.hashnode.dev/object-destructuring-javascript)
 - [Uso de la consola del browser.](https://medium.com/@ardaniramirez/alternativas-a-console-log-37e616476e14)
+- [GitHub Copilot: conceptos y modo de uso.](https://medium.com/@axelperez4/github-copilot-como-asistente-de-desarrollo-6d3efd62f12a)
 
 ## 8. Algoritmos
 - [Ejemplo de Árboles de decisión.](https://medium.com/@luisferliza/puedes-ganarle-a-esta-ia-jugando-totito-f3ce9fe9e8c)
@@ -67,11 +71,17 @@ Aquí están consolidadas todas las publicaciones realizadas por el equipo de TI
 - [Git CLI vs Git GUI.](https://medium.com/@sergiohumberto27/git-cli-vs-git-en-gui-910c1dd79c8a)
 - [Uso de GitHub Gist para guardar snippets.](https://flicardie.medium.com/guardando-c%C3%B3digo-repetitivo-snippets-851142952114)
 - [Uso de GitFlow.](https://medium.com/@sergiohumberto27/conociendo-gitflow-a588716fbc28)
+- [¿Cómo usar GitFlow desde línea de comando?](https://medium.com/@sergiohumberto27/gitflow-desde-linea-de-comandos-9bd5851b9287)
 
 ## 10. SAP
 - [Definición de Roles en SAP.](https://medium.com/@corinasantizo/sap-y-la-importancia-de-la-definicion-de-los-roles-y-perfiles-parte-i-465db563a7ae)
+- [Importancia de la segregación de funciones en un ERP.](https://medium.com/@corinasantizo/importancia-de-la-segregacion-de-funciones-da6d57764218)
 - [Interfases hacia SAP, usando C#.](https://medium.com/@axelperez4/conecta-a-sap-tu-aplicaci%C3%B3n-backend-c-3d3274660c58)
 
 ## 11. AWS
 - [Creación de Presupuestos AWS.](https://medium.com/@luisferliza/creando-tu-primer-presupuesto-de-costos-en-aws-ae637fd06870)
 - [Conceptos y uso de Glue para conexión hacia fuentes de datos.](https://github.com/macomeza/dataScience/blob/main/awsGlue/aws-glue.md)
+- [Usando Lambda para desplegar un sitio web estático.](https://medium.com/@luisferliza/utilizando-aws-lambda-para-alojar-un-sitio-web-est%C3%A1tico-fea74e2b46a5)
+
+## 12. React
+- [No uses useState con tus forms en React.](https://sergiodev.hashnode.dev/no-uses-usestate-con-tus-forms-en-react)
